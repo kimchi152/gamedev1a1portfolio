@@ -7,6 +7,8 @@ Second year game development student interested in learning more about different
   * Filipino/caucasian
   * heavy Nintendo user
 
+    
+
 
 ***
 
