@@ -3,6 +3,9 @@ Second year game development student interested in learning more about different
 
 **graduating 2027**
 
+
+***
+
 ## Term 1 Projects
 
 ## Term 2 Projects
