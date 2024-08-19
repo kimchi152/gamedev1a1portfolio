@@ -1,6 +1,6 @@
 # TJ's Game Development Portfolio
 Second year game development student interested in learning more about different types of code and how different types of games work.
-+graduating 2027
+*graduating 2027  *Sophmore
 
 ## Term 1 Projects
 
