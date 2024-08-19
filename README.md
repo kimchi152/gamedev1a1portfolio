@@ -3,7 +3,7 @@ Second year game development student interested in learning more about different
 
 **graduating 2027**
 
-  * words
+  * only child   * stuff
 
 ***
 
