@@ -3,8 +3,8 @@ Second-year game development student interested in learning more about different
 
 **graduating 2027**
 
-  * only child
-  * Filipino/caucasian
+  * Skyline High School
+  * Filipino/Caucasian
   * heavy Nintendo user
   * digital/formal artist 
 
