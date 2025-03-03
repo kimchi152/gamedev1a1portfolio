@@ -1,12 +1,13 @@
 # TJ's Game Development Portfolio
-Second-year game development student interested in learning more about different types of code and how various games work.
+Second-year game development student interested in learning more about different types of code and broadening knowledge on graphic design and animation. 
 
 **graduating 2027**
 
-  * Skyline High School
+  * Skyline High School: sophomore 
   * Filipino/Caucasian
   * heavy Nintendo user
-  * digital/formal artist 
+  * 2D digital/formal artist
+    -Piskel, Adobe After Effects 
 
     
 
